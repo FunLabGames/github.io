@@ -12,6 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.16f1",
-"progressframeimage": "Build/logo.png"
+"unityVersion": "2019.4.16f1"
 }
